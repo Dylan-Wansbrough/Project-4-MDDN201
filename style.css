@@ -17,6 +17,14 @@ body{
   padding-bottom:10px;
 }
 
+#maincenter p{
+  padding-left: 0.75%;
+}
+
+#maincenter h3{
+  padding-left: 0.75%;
+}
+
 #mainright {
   width:15%;
   float:right;
