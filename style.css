@@ -1,0 +1,35 @@
+body{
+  background-color: #6eccc8;
+}
+
+#mainleft {
+  width:15%;
+  float:left;
+  background:#fff;
+  padding-bottom:10px;
+  background-color: #6eccc8;
+}
+
+#maincenter {
+  width:69%;
+  float:left;
+  background:#e0daba;
+  padding-bottom:10px;
+}
+
+#mainright {
+  width:15%;
+  float:right;
+  background:#fff;
+  padding-bottom:10px;
+  background-color: #6eccc8;
+}
+
+#top_ad{
+  width: 100%;
+  text-align: center;
+}
+
+#middle{
+  margin-left: 20%;
+}
