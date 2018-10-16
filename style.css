@@ -41,3 +41,16 @@ body{
 #middle{
   margin-left: 20%;
 }
+
+#line{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 25%;
+  background-color: black;
+  width: 50%;
+  height: 3px;
+}
+
+#nav{
+  text-align: center;
+}
